@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/art.chain/static/css/main.607a0273.css",
+    "main.js": "/art.chain/static/js/main.2882816f.js",
+    "static/js/787.e8a1d703.chunk.js": "/art.chain/static/js/787.e8a1d703.chunk.js",
+    "static/media/Desktop - 2.png": "/art.chain/static/media/Desktop - 2.5c9439c6d900f1120e65.png",
+    "static/media/wp7535802-minimal-reflection-sunset-wallpapers.jpg": "/art.chain/static/media/wp7535802-minimal-reflection-sunset-wallpapers.aa096b29f19210e6d4bc.jpg",
+    "static/media/Art.Chain.svg": "/art.chain/static/media/Art.Chain.0b94ec35ded2a9fd6a2f4bcaf6d0aba5.svg",
+    "index.html": "/art.chain/index.html",
+    "main.607a0273.css.map": "/art.chain/static/css/main.607a0273.css.map",
+    "main.2882816f.js.map": "/art.chain/static/js/main.2882816f.js.map",
+    "787.e8a1d703.chunk.js.map": "/art.chain/static/js/787.e8a1d703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607a0273.css",
+    "static/js/main.2882816f.js"
+  ]
+}
