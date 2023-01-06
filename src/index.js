@@ -1,15 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { BrowserRouter as Router, Route ,Link, Routes} from "react-router-dom";
+import Home from './container/Home';
+import Explore from './container/Explore';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Home from "./container/Home";
 import 'tachyons';
+import Navbar from "./component/Navbar";
+import SocialMedia from "./component/SocialMedia";
+import Header from "./component/Header";
+import App from "./App";
+
+
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <React.StrictMode>
-        <Home/>
+        <App />
     </React.StrictMode>
 );
 

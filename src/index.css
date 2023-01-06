@@ -5,8 +5,8 @@ body {
   sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url("./assets/wp7535802-minimal-reflection-sunset-wallpapers.jpg") fixed no-repeat;
-  background-size: cover;
+  background: #434242;
+  height: 100vh;
 }
 
 code {
