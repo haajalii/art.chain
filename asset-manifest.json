@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/art.chain/static/css/main.607a0273.css",
-    "main.js": "/art.chain/static/js/main.2882816f.js",
+    "main.css": "/art.chain/static/css/main.7eafecdb.css",
+    "main.js": "/art.chain/static/js/main.300c95a5.js",
     "static/js/787.e8a1d703.chunk.js": "/art.chain/static/js/787.e8a1d703.chunk.js",
+    "static/media/victor-grabarczyk-wN9DU73b8_s-unsplash.jpg": "/art.chain/static/media/victor-grabarczyk-wN9DU73b8_s-unsplash.8c8d3ebf237c9d0a73d7.jpg",
     "static/media/Desktop - 2.png": "/art.chain/static/media/Desktop - 2.5c9439c6d900f1120e65.png",
+    "static/media/pexels-karolina-grabowska-6634140.jpg": "/art.chain/static/media/pexels-karolina-grabowska-6634140.84bdd38fb475e9999b2a.jpg",
     "static/media/wp7535802-minimal-reflection-sunset-wallpapers.jpg": "/art.chain/static/media/wp7535802-minimal-reflection-sunset-wallpapers.aa096b29f19210e6d4bc.jpg",
-    "static/media/Art.Chain.svg": "/art.chain/static/media/Art.Chain.0b94ec35ded2a9fd6a2f4bcaf6d0aba5.svg",
+    "static/media/Picasso-The-Milliners-Workshop.jpg": "/art.chain/static/media/Picasso-The-Milliners-Workshop.a539efb0b5c8ec2c4ddc.jpg",
+    "static/media/Art.Chain.svg": "/art.chain/static/media/Art.Chain.da7c6532bdebe6f915d7f8ec253e74e2.svg",
     "index.html": "/art.chain/index.html",
-    "main.607a0273.css.map": "/art.chain/static/css/main.607a0273.css.map",
-    "main.2882816f.js.map": "/art.chain/static/js/main.2882816f.js.map",
+    "main.7eafecdb.css.map": "/art.chain/static/css/main.7eafecdb.css.map",
+    "main.300c95a5.js.map": "/art.chain/static/js/main.300c95a5.js.map",
     "787.e8a1d703.chunk.js.map": "/art.chain/static/js/787.e8a1d703.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.607a0273.css",
-    "static/js/main.2882816f.js"
+    "static/css/main.7eafecdb.css",
+    "static/js/main.300c95a5.js"
   ]
 }
